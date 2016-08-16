@@ -1,0 +1,5 @@
+E:\Lap Trinh Web\MVC5\Project\OnlineShop\Common\bin\Debug\Common.dll
+E:\Lap Trinh Web\MVC5\Project\OnlineShop\Common\bin\Debug\Common.pdb
+E:\Lap Trinh Web\MVC5\Project\OnlineShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Lap Trinh Web\MVC5\Project\OnlineShop\Common\obj\Debug\Common.dll
+E:\Lap Trinh Web\MVC5\Project\OnlineShop\Common\obj\Debug\Common.pdb
